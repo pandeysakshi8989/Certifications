@@ -1,5 +1,5 @@
 # Internship Certificates
-1.Institute : Edunet Foundation, leveraging the IBM  SkillsBuild Program on Artificial Intelligence (AI) 
+1. Institute : Edunet Foundation, leveraging the IBM  SkillsBuild Program on Artificial Intelligence (AI) 
 Position: Intern 
 Duration: 6 weeks  
 2. Institute: AICTE- Internship on AI: Transformative Learning with Tech Saksham – A joint CSR initiative of Microsoft & SAP, focusing on AI Technologies 
